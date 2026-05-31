@@ -1,5 +1,5 @@
 ---
-title: 'introduction'
+title: 'Introduction'
 teaching: 10
 exercises: 2
 ---
@@ -12,7 +12,7 @@ exercises: 2
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain how to use markdown with the new lesson template
+- Explain how to use Markdown with the new lesson template
 - Demonstrate how to include pieces of code, figures, and nested challenge blocks
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
